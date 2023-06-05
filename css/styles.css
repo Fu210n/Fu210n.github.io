@@ -807,6 +807,7 @@ margin: 6px auto;
     
     .bilel_container {
         flex-direction:row;
+        margin-top: 400px;
     }
     
     .who_text{
