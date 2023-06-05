@@ -228,6 +228,7 @@ header{
     bottom: 0;
     height: 100%;
     z-index: -1;
+    overflow-x: hidden;
   }
 
   .background_web{
@@ -336,15 +337,15 @@ header{
     display: flex; 
     justify-content: center;
     flex-direction:column;
-     margin-top: 400px;
+     margin-top: 200px;
 }
 
 .who_text{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-left: 80px;
-    width: 75vw;
+    margin-left: 12.5%;
+    width: 75%;
 }
 
 .title_bilel{
