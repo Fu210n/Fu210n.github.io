@@ -175,6 +175,6 @@ document.addEventListener("DOMContentLoaded", function(event){
       loader.style.display = "none";
       content.style.display = "block";
       loaderVideo.pause();
-    }, 2750);
+    }, 3000);
   };
 });
