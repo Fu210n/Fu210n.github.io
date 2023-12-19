@@ -35,7 +35,7 @@ main{
 
 .maintitle, h1{
     font-family: 'dirtyline_36daysoftype_2022Rg';
-    font-size: 60px;
+    font-size: 50px;
     display: flex;
     justify-content: center;
 }
@@ -50,17 +50,17 @@ main{
 
 
 .maintitle_container{
-margin-top: 275px;
+margin-top: 60%;
 
 }
 
 .maintitle_container_home{
-    margin-top: 200px;
+    margin-top: 30%;
     margin-bottom: 45%;
 }
 
 .maintitle_container_who{
-    margin-top: 250px;
+    margin-top: 50%;
 }
 
 
@@ -733,20 +733,20 @@ margin: 6px auto;
     @media only screen and (min-width:1200px){
 
     .maintitle, h1{    
-        font-size: 150px;
+        font-size: 100px;
     }
 
     .maintitle_container{
-        margin-top: 300px;
+        margin-top: 10%;
     }
 
     .maintitle_container_home{
-        margin-top: 150px;
+        margin-top: 15%;
         margin-bottom: 0px;
     }
 
     .maintitle_container_who{
-        margin-top: 200px;
+        margin-top: 10%;
     }
 
     h2{
